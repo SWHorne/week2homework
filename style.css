@@ -1,3 +1,10 @@
-.navbar{
-    background-color: #17a2b8;
+footer {
+    position: fixed;
+    background-color: darkslategray;
+    text-align: center;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
 }
